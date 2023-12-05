@@ -125,7 +125,7 @@
     <repository>
       <id>github</id>
       <name>GitHub Packages</name>
-      <url>https://maven.pkg.github.com/ruimo/proleap-cobol-parser</url>
+      <url>https://maven.pkg.github.com/ruimo/proleap-cobol-parser-4_0_0</url>
     </repository>
   </distributionManagement>
 </project>
