@@ -13,9 +13,7 @@ In pom.xml
     git tag -a -m "Comment" <version>
     git push origin <version>
 
-## create release
-
-## Releases
+## Create release
 
 On release page, 'Draft new release'
 
