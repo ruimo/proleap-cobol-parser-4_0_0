@@ -1541,7 +1541,11 @@ ifElse
 // initialize statement
 
 initializeStatement
-   : INITIALIZE identifier+ initializeReplacingPhrase?
+   : INITIALIZE identifier+ initializeWithPhrase? initializeReplacingPhrase?
+   ;
+
+initializeWithPhrase
+   : WITH? FILLER
    ;
 
 initializeReplacingPhrase
